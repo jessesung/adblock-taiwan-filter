@@ -17,3 +17,6 @@ www.plurk.com##.native-ads
 ! 阻擋 PIXNET 的三分鐘閒置視窗 https://blog.gslin.org/archives/2016/04/24/6524/
 pixnet.net##.idle-pop
 
+! facebook
+www.facebook.com###pagelet_ego_pane
+www.facebook.com##div[data-story_category="4"]
